@@ -1,2 +1,2 @@
 insert into CURSO(data_cadastro,data_inicio,descricao,ementa,nome,valor)
-values('paulo','estudante','terceiro periodo','1 de abril','2 de janeiro','210');
+values('21 de abril','12 de outubro', 'estudante ', '2 periodo','paulo','2165');

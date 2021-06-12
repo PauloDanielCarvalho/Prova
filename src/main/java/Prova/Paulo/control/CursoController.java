@@ -23,7 +23,7 @@ import Prova.Paulo.entity.Curso;
 import Prova.Paulo.repository.CursoRepository;
 
 @RestController
-@RequestMapping("/curso")
+@RequestMapping("")
 public class CursoController {
 	@Autowired
 	private CursoRepository cursoRepository;
